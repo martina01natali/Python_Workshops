@@ -22,7 +22,7 @@ conda activate geoenv
 
 5. Install following packages:
 ```
-conda install –c conda-forge python numpy pandas matplotlib scipy pip jupyter jupyterlab ipykernel openpyxl netCDF4 xarray rasterio cartopy h5py gdal bottleneck dask cython
+conda install –c conda-forge python numpy pandas matplotlib scipy pip jupyter jupyterlab ipykernel openpyxl netCDF4 xarray cartopy h5py gdal bottleneck dask cython
 ```
 
 6. Now run jupyter lab:
@@ -44,7 +44,7 @@ Everything will be installed automatically by running `setup_conda_geoenv.sh`.
 
 3. At the end of the process, on the terminal, activate your environment: to do that, change to your `conda` local folder, which has appeared in the working directory, and run:
 ```
-source geoenv
+source geoenv_settings
 ```
 You will always have to do that every time you want to activate the environment.
 

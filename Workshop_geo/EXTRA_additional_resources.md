@@ -11,6 +11,8 @@ Introduction to Python in Earth Science Data Analysis (free for CNR people):
 	https://link.springer.com/book/10.1007/978-3-030-78055-5
 Object-oriented programming in python:
 	https://python-textbok.readthedocs.io/en/1.0/index.html
+CINECA python course:
+	https://eventi.cineca.it/en/hpc/introduction-python-programming
 
 
 My personal notes, from when I first started:
