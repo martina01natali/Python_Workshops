@@ -2,19 +2,19 @@
 
 #-----------------------------------------------------------------------------------------
 # Script information
-script_name='NAME ENVIRONMENT - PYTHON3 LIBRARIES FOR PACKAGE - NAME TYPE - CONDA'
+script_name='GEOENV - PYTHON3 LIBRARIES FOR PACKAGE - NAME TYPE - CONDA'
 script_version="1.0.0"
-script_date='YYYY/MM/DD'
+script_date='2024/07/25'
 
 
 # Define working directory
-fp_cwd='/home/martina/Documents/Work_Area/Python_Basics_Workspace/python_workshop' # no slash at the end!
+fp_cwd='/home/martina/Documents/Work_Area/Python_Classes_Workspace/Workshop_geo' # no slash at the end!
 
 # Define file reference path according with https link(s) --> https://repo.anaconda.com/miniconda/
 fp_env_file_miniconda='https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' # latest 2024-06-11
 
 # Argument(s) default definition(s)
-fp_env_tag_default='python_workshop'
+fp_env_tag_default='geoenv'
 
 fp_env_folder_root_default='./conda/'
 fp_env_file_reference_default='%ENV_TAG_settings'
