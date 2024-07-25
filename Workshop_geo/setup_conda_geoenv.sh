@@ -18,7 +18,7 @@ fp_env_tag_default='geoenv'
 
 fp_env_folder_root_default='./conda/'
 fp_env_file_reference_default='%ENV_TAG_settings'
-fp_env_folder_libraries_default='%ENV_TAG_libraries'
+fp_env_folder_libraries_default='%ENV_TAG'
 
 fp_env_file_requirements_default='requirements_%ENV_TAG.yaml' # or substitute your env file name
 
