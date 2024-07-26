@@ -25,32 +25,27 @@ Workshop details:
 - [linux] executing script
 - look for packages on conda channels
 
-**01_basics**
+**01_introduction**
+- general introduction to python and its syntax
+
+**02_basics**
 - syntax: indentation, no variable type definition, "everything is an object"
 - built-in types and mutable/non-mutable: str, list, dict, numerical types, sets 
 - comprehensions: lists and dicts
 - statements: conditionals, loops, while
 - functions' definition, default sets, type hinting, args and kwargs (very brief)
 
-**02_data_analysis**
+**03_data_analysis**
 - read an excel file with pandas
 - data cleaning and timeseries resampling/grouping
 - plot: scatterplot, timeseries, histogram
 - subplots and multiple plots
-
-**03_io_geo**
-- read/write tifs with xarray
+- read/write tifs with rasterio
 - reproject, get nearest neighbor
 - plot with cartopy
 - read geojsons with geojson and json
 - read/write netCDF4 files with netCDF4
 
-**04_modules**
-- write functions in external file and call from notebook
-
 **additional_resources**
-- a notebook of my own to explore
-- my github repositories
-- ARSET classes
-- a full page of links
+in EXTRA_additional_resources
 
