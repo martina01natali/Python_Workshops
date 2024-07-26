@@ -183,7 +183,7 @@ else
 	echo " ======> [1/2] CONDA-DEFAULT CHANNEL INSTALLATION ... "
 	conda create --yes --name $fp_env_folder_libraries
 	source activate $fp_env_folder_libraries
-	conda install -c conda-forge python numpy pandas matplotlib scipy pip jupyter jupyterlab ipykernel openpyxl netCDF4 xarray cartopy h5py gdal bottleneck dask cython
+	conda install -c conda-forge python numpy pandas matplotlib scipy pip jupyter jupyterlab ipykernel openpyxl netCDF4 xarray cartopy h5py gdal bottleneck dask cython geopandas seaborn geojson
 	# numpy scipy matplotlib==3.1.3 gdal h5py cartopy==0.17 pandas rasterio netCDF4 cython xarray=0.18.0 bottleneck dask pip python=3.7
 
 	echo " ======> [1/2] CONDA-DEFAULT CHANNEL INSTALLATION ... DONE"

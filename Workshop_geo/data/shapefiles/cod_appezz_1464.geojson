@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cod_appezz_1464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 1099, "cod_appezz": "1464", "cod_casa_g": "1", "cod_area_d": "30", "note": null, "casaguardi": "29038.6552734375", "codapp": 1464, "sup__polig": 0.029038655273436999, "note 2": "0.02903865", "area_ha": 0.029038655273436999, "grandi ute": null, "grandi u_1": null, "grandi u_2": null, "grandi u_3": null, "grandi u_4": null, "grandi u_5": null, "grandi u_6": null, "SE00000_AP": "1400", "SE00000__1": "3.0000", "SE00000__2": "20.00", "SE00000__3": "57", "SE00000__4": "VIGNA", "SE00000__5": "9", "SE00000__6": "Rotolone sottochioma", "SE00000__7": "C", "SE00000__8": null, "SE00000__9": null, "SE00000_10": "30", "SE00000_11": "Molteni-Bartoli", "SE00000_12": "A2008", "SE00000_13": "FOSDONDO", "SE00000_14": "Fossetta", "SE00000_15": "I3S03", "SE00000_16": "ROTTE", "SE00000_17": "ITC78RE", "SE00000_18": "Traversa di Castellarano RE", "SE00000_19": null, "SE00000_20": null, "SE00000_21": "P", "SE00000_22": "248654", "SE00000_23": null, "SE00000_24": null, "SE00000_25": 2020, "SE00000_26": "aggiornato pc ufficio", "SE00000_27": "N", "SE00000_28": "APERTO" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 10.730896199577781, 44.763618256426675 ], [ 10.730945062483265, 44.764106137387365 ], [ 10.732754727926533, 44.764608032401512 ], [ 10.734667451990994, 44.764350969827753 ], [ 10.734611468743534, 44.763244277925871 ], [ 10.733697907744549, 44.763274438644252 ], [ 10.733691369694556, 44.763820165386193 ], [ 10.732721156985443, 44.763867465739345 ], [ 10.73268394838205, 44.76338755238767 ], [ 10.730896199577781, 44.763618256426675 ] ] ] ] } }
+]
+}

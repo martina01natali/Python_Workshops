@@ -22,7 +22,7 @@ conda activate geoenv
 
 5. Install following packages:
 ```
-conda install –c conda-forge python numpy pandas matplotlib scipy pip jupyter jupyterlab ipykernel openpyxl netCDF4 xarray cartopy h5py gdal bottleneck dask cython
+conda install –c conda-forge python numpy pandas matplotlib scipy pip jupyter jupyterlab ipykernel openpyxl netCDF4 xarray cartopy h5py gdal bottleneck dask cython geopandas seaborn geojson
 ```
 
 6. Now run jupyter lab:

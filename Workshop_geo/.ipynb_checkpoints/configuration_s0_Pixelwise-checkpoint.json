@@ -1,0 +1,28 @@
+{
+    "options": {
+        "opt_day_by_day": "True",
+        "opt_merge_subplots": "False",
+        "opt_norm_orbits": "True",
+        "opt_norm_orbits_pass": "False",
+        "start_date": "2017-01-01",
+        "end_date": "2023-12-31",
+        "name_date": "Time_days_1",
+        "format_date": "%Y-%m-%d"
+    },
+    "paths": {
+        "root": "./",
+        "data_input": {
+            "geojson_path": "data/shapefiles/"
+        },
+        "data_output": {
+            "folder_plot": "data/sentinel_1_data/",
+            "filename_template": "s0_cod_appezz_1464_2017-23",
+            "add_description": "",
+            "opt_save_nc": "True",
+            "opt_save_single_tif": "False",
+            "opt_save_multiday_tif": "False",
+            "opt_save_merged_tif": "False",
+            "opt_save_plot": "True"
+        }
+    }
+}
